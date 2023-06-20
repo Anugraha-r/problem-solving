@@ -1,0 +1,1 @@
+print("Hello world , i belive that it is all about 0's aand 1's")
